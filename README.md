@@ -17,7 +17,8 @@ detailed cards = 0%
 
 •••• Required: •••
 
-Yu-Gi-Oh! GX Tag Force ULUS10136(may work with other versions if edited texture.ini) PPSSPP latest version.
+Yu-Gi-Oh! GX Tag Force ULUS10136(may work with other versions if edited texture.ini) 
+PPSSPP latest version.
 
 ================================================
 
@@ -25,4 +26,5 @@ Yu-Gi-Oh! GX Tag Force ULUS10136(may work with other versions if edited texture.
 
 ================================================
 
-STAFF TEAM: MiyamuraShiro I still don't know how github works, but if someone is willing to help, they will be welcome, you can call me on twitter, @MiyamuraShiro
+STAFF TEAM: MiyamuraShiro 
+I still don't know how github works, but if someone is willing to help, they will be welcome, you can call me on twitter, @MiyamuraShiro
