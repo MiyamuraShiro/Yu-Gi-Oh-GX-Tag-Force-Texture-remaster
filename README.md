@@ -8,7 +8,10 @@ Latest update: 23/05/2021 Total size: 218 MB. (200 files edited)
 
 •••• Info : •••
 
-main character = 100% (there are psd files in the character folder, HUD and Potrait so you can edit your will) build deck (thumbnails) = 0% cards during duel = 8% detailed cards = 0%
+main character = 100% (there are psd files in the character folder, HUD and Potrait so you can edit your will) 
+build deck (thumbnails) = 0% 
+cards during duel = 8% 
+detailed cards = 0%
 
 ================================================
 
