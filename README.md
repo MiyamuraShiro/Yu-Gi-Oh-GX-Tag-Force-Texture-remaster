@@ -2,7 +2,7 @@
 
 High quality texture for cards on YU-GI-OH! GX Tag Force (ULUS10136), using the PPSSPP emulator.
 
-Latest update: 24/05/2021 Total size: 218 MB. (211 files edited)
+Latest update: 24/05/2021 Total 
 
 ================================================
 
