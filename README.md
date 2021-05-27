@@ -34,7 +34,7 @@ PPSSPP latest version.
 
 •••• Install: •••
 
-place the ULUS10136 folder in "PPSSPP \ memstick \ PSP \ TEXTURES"
+place the Files in "PPSSPP \ memstick \ PSP \ TEXTURES \ ULUS10136"
 
 ================================================
 
