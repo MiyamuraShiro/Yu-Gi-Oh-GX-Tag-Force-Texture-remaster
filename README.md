@@ -40,8 +40,8 @@ place the ULUS10136 folder in "PPSSPP \ memstick \ PSP \ TEXTURES"
 
 ••• Screenshots. •••
 
-![ULUS10136_00002](https://user-images.githubusercontent.com/84588191/119284587-6f725b80-bc16-11eb-850f-20ec7a723be1.jpg)
-![ULUS10136_00001](https://user-images.githubusercontent.com/84588191/119284597-74370f80-bc16-11eb-8e40-4b08e5750ca0.jpg)
+![ULUS10136_00001](https://user-images.githubusercontent.com/84588191/119859155-800f2400-beeb-11eb-8ba8-36243a4b8f01.jpg)
+![ULUS10136_00000](https://user-images.githubusercontent.com/84588191/119859171-84d3d800-beeb-11eb-8e11-7fc52c35e408.jpg)
 ![ULUS10136_00004](https://user-images.githubusercontent.com/84588191/119284617-7e590e00-bc16-11eb-9ffa-7aa43cfc464e.jpg)
 ![ULUS10136_00005](https://user-images.githubusercontent.com/84588191/119284621-8153fe80-bc16-11eb-84f8-3d3a392e6f7e.jpg)
 ![ULUS10136_00008](https://user-images.githubusercontent.com/84588191/119530526-76ee4d80-bd59-11eb-8e8e-6146e5c5b43d.jpg)
