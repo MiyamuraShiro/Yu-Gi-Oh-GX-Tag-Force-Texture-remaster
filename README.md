@@ -2,7 +2,7 @@
 
 High quality texture for cards on YU-GI-OH! GX Tag Force (ULUS10136), using the PPSSPP emulator.
 
-Latest update: 25/05/2021 Total 
+Latest update: 29/05/2021 Total 
 
 Cards texture are being acquired in:
 https://db.ygoprodeck.com/
@@ -18,7 +18,7 @@ main character = 100% (there are psd files in the character folder, HUD and Potr
 
 build deck (thumbnails) = 0% 0/7
 
-cards during duel/album = 19% 600/2957 
+cards during duel/album = 22% 700/2957 
 
 detailed cards = 0% 0/2957
 
