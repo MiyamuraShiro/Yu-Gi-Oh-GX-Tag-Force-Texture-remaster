@@ -14,11 +14,11 @@ https://yugipedia.com/wiki/Gallery_of_Yu-Gi-Oh!_GX_Tag_Force_cards_(English)
 
 •••• Info : •••
 
-main character = 100% (there are psd files in the character folder, HUD and Potrait so you can edit your will) 
+main character = 100% (there are psd files in the character, HUD and Potrait folder, so you can edit your will) 
 
 build deck (thumbnails) = 0% 0/7
 
-cards during duel/album = 22% 700/2957 
+cards during duel/album = 30% 900/2957 
 
 detailed cards = 0% 0/2957
 
