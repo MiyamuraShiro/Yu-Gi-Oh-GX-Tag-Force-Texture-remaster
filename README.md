@@ -1,4 +1,4 @@
-![ULUS10136_00000](https://user-images.githubusercontent.com/84588191/120694987-342b2480-c481-11eb-9ef8-69e1cf6d4174.jpg)
+
 # Yu-Gi-Oh-GX-Tag-Force-Texture-remaster
 
 High quality texture for cards on YU-GI-OH! GX Tag Force (ULUS10136), using the PPSSPP emulator.
