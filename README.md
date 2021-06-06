@@ -42,11 +42,11 @@ place the Files in "PPSSPP \ memstick \ PSP \ TEXTURES \ ULUS10136"
 ••• Screenshots. •••
 
 ![ULUS10136_00001](https://user-images.githubusercontent.com/84588191/119859155-800f2400-beeb-11eb-8ba8-36243a4b8f01.jpg)
-![ULUS10136_00000](https://user-images.githubusercontent.com/84588191/119859171-84d3d800-beeb-11eb-8e11-7fc52c35e408.jpg)
-![ULUS10136_00004](https://user-images.githubusercontent.com/84588191/119284617-7e590e00-bc16-11eb-9ffa-7aa43cfc464e.jpg)
-![ULUS10136_00005](https://user-images.githubusercontent.com/84588191/119284621-8153fe80-bc16-11eb-84f8-3d3a392e6f7e.jpg)
-![ULUS10136_00000](https://user-images.githubusercontent.com/84588191/120694996-39886f00-c481-11eb-9c0c-e89412a68273.jpg)
-![ULUS10136_00001](https://user-images.githubusercontent.com/84588191/120695018-3e4d2300-c481-11eb-91e2-c2857f940b37.jpg)
+
+
+
+
+
 
 
 ================================================
