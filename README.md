@@ -51,5 +51,9 @@ place the Files in "PPSSPP \ memstick \ PSP \ TEXTURES \ ULUS10136"
 ================================================
 
 STAFF TEAM:
-MiyamuraShiro 
+
+MiyamuraShiro
+
+================================================
+
 I still don't know how github works, but if someone is willing to help, they will be welcome, you can call me on twitter, @MiyamuraShiro
