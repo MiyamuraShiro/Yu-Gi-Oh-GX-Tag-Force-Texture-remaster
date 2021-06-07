@@ -21,7 +21,7 @@ build deck (thumbnails) = 0% 0/7
 
 cards during duel/album = 60% 1500/2473 
 
-detailed cards = 0,04% 1/2473
+detailed cards = 0,08% 2/2473
 
 ================================================
 
