@@ -6,12 +6,15 @@ High quality texture for cards on YU-GI-OH! GX Tag Force (ULUS10136), using the 
 Latest update: 11/06/2021
 
 Cards texture are being acquired in:
+
 https://db.ygoprodeck.com/
  
 name of the cards is being acquired in:
+
 https://yugipedia.com/wiki/Gallery_of_Yu-Gi-Oh!_GX_Tag_Force_cards_(English)
 
-PPSSPP forum Thread
+PPSSPP forum Thread:
+
 https://forums.ppsspp.org/showthread.php?tid=27623
 
 ================================================
