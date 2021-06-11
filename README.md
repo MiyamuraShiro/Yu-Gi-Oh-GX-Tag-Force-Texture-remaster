@@ -9,11 +9,9 @@ Cards texture are being acquired in:
 https://db.ygoprodeck.com/
  
 name of the cards is being acquired in:
-
 https://yugipedia.com/wiki/Gallery_of_Yu-Gi-Oh!_GX_Tag_Force_cards_(English)
 
 PPSSPP forum Thread:
-
 https://forums.ppsspp.org/showthread.php?tid=27623
 
 ================================================
