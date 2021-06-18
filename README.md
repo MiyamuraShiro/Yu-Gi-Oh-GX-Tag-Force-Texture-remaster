@@ -22,9 +22,9 @@ main character = 100% (there are psd files in the character, HUD and Potrait fol
 
 build deck (thumbnails) = 0% 0/7
 
-cards during duel/album = 76% 1900/2473 
+cards during duel/album = 84% 2100/2473 
 
-detailed cards = 0,08% 2/2473
+detailed cards = 0,16% 4/2473
 
 ================================================
 
