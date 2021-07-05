@@ -20,7 +20,7 @@ https://forums.ppsspp.org/showthread.php?tid=27623
 
 main character = 100% (there are psd files in the character, HUD and Potrait folder, so you can edit your will) 
 
-build deck (thumbnails) = 6% 160/2473
+build deck (thumbnails) = 8% 200/2473
 
 cards during duel/album = 96% 2357/2473 
 
