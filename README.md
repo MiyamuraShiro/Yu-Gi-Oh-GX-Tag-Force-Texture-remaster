@@ -60,4 +60,4 @@ MiyamuraShiro
 
 ================================================
 
-I still don't know how github works, but if someone is willing to help, they will be welcome, you can call me on twitter, @MiyamuraShiro
+I still don't know how github works, but if someone is willing to help, they will be welcome, you can call me on twitter, @Miyamura_Shiro
