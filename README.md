@@ -44,12 +44,12 @@ place the Files in "PPSSPP \ memstick \ PSP \ TEXTURES \ ULUS10136"
 
 ••• Screenshots. •••
 
-![ULUS10136_00001](https://user-images.githubusercontent.com/84588191/119859155-800f2400-beeb-11eb-8ba8-36243a4b8f01.jpg)
-![ULUS10136_00000](https://user-images.githubusercontent.com/84588191/120943877-f8ee5700-c707-11eb-84ba-17dddc90ca1d.jpg)
-![ULUS10136_00003](https://user-images.githubusercontent.com/84588191/120943902-128f9e80-c708-11eb-9621-c68ab3fd3d32.jpg)
-![ULUS10136_00001](https://user-images.githubusercontent.com/84588191/120943905-18857f80-c708-11eb-9176-01a8f22aa959.jpg)
-![Captura de Tela (25)](https://user-images.githubusercontent.com/84588191/154587994-de758706-b5fb-4b06-8ab4-e6a3a5a2376d.png)
-![Captura de Tela (24)](https://user-images.githubusercontent.com/84588191/154587995-0958cbe7-4805-400b-9c5d-2935fa10f128.png)
+![1](https://user-images.githubusercontent.com/84588191/154774112-a3c48d9a-9033-433a-a2c9-54b99335e393.png)
+![2](https://user-images.githubusercontent.com/84588191/154774114-df1f669d-3c96-48a1-8a3f-9a024198456f.png)
+![3](https://user-images.githubusercontent.com/84588191/154774121-52cacf73-96ab-4281-bdd4-53a94abe4608.png)
+![4](https://user-images.githubusercontent.com/84588191/154774176-926ce9a6-64dd-4bc7-bfba-36c4fe216526.png)
+
+
 
 
 ================================================
